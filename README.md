@@ -1,4 +1,4 @@
-# phase1-communication
+# Open Scholarship Framework Initiative - Communication guidelines repository
 
 This repository contains visual identity files and communication templates for the SFU Open Scholarship Framework, including:
 
